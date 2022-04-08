@@ -1,0 +1,41 @@
+body{
+    background-color: aqua;
+    display: table;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+.row{
+    clear:both;
+}
+.column{
+    list-style: none;
+    width: 50%;
+    float: left;
+}
+.center {
+
+ text-align: center;
+}
+.menu {
+    /*margin-left: 400px;*/
+    font-size: 20px;
+    text-align: center
+}
+b{
+    float: center;
+    background-color: rgb(19, 223, 46);
+}
+b,a {
+     padding:12px 14px;
+}
+
+h3 {
+    color: rebeccapurple;
+    text-decoration: underline;
+}
+h2{
+    color: red;
+    text-decoration: underline;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
